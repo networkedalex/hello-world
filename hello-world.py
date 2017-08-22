@@ -1,2 +1,2 @@
 import os
-print("Hello World!", "Today is Tuesday")
+print("Hello World!", "Today is certainly Tuesday")
